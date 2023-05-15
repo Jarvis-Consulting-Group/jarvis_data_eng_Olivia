@@ -8,13 +8,10 @@
 
 # Olivia Bryant
 ## Jarvis Consulting
-Welcome to my GitHub profile!
-I'm Olivia Bryant, a software developer with a Bachelor of Computing in Computer Science.
-I have a strong educational background and practical experience in web development, database management, and IT support.
-With a focus on delivering high-quality projects and leveraging a wide range of technical skills, I strive to create innovative software solutions.
-From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects.
-In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service.
-Feel free to explore my projects and get in touch with me for collaboration or any inquiries.
+👋 Welcome to my GitHub profile!
+I'm Olivia Bryant, a software developer with a Bachelor of Computing in Computer Science. I have a strong educational background and practical experience in web development, database management, and IT support. With a focus on delivering high-quality projects and leveraging a wide range of technical skills, I strive to create innovative software solutions. 💻🌟
+From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧
+Feel free to explore my projects and get in touch with me for collaboration or any inquiries. Let's create something amazing together! 🌟✨
 
 ## Skills
 **Programming languages:** Python, JavaScript, HTML, CSS, SQL, VBA, Java, C, jQuery, Angular, Node.js, Express.js, Java, Linux/Bash, Git
