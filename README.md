@@ -8,11 +8,20 @@
 
 # Olivia Bryant
 ## Jarvis Consulting
+Welcome to my GitHub profile!
+I'm Olivia Bryant, a software developer with a Bachelor of Computing in Computer Science.
+I have a strong educational background and practical experience in web development, database management, and IT support.
+With a focus on delivering high-quality projects and leveraging a wide range of technical skills, I strive to create innovative software solutions.
+From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects.
+In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service.
+Feel free to explore my projects and get in touch with me for collaboration or any inquiries.
 
 ## Skills
-**Proficient:** JavaScript, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git, HTML, CSS
-**Competent:** C, Docker, Postgres
-**Familiar:** Java
+**Programming languages:** Python, JavaScript, HTML, CSS, SQL, VBA, Java, C, jQuery, Angular, Node.js, Express.js, Java, Linux/Bash, Git
+**Frameworks & Libraries:** NumPy, Pandas, Matplotlib, Flask, Express.js, Socket.io, jQuery, Bootstrap, Leaflet.js
+**Database Technologies:** MySQL, Postgres, MongoDB, SQL, NoSQL, Python, Pandas, SQL, Oracle, Database Design & Querying, Data Analysis & Interpretation, Docker, RDBMS/SQL
+**Web Technologies:** AJAX, API Development, Geomapping, Cross Origin Resource Sharing (CORS), Flask, Ember.js
+**Skills & Techniques:** Collaboration, Communication, MS Office, Attention to Detail, Organization, Independent Problem Solving, Decision Making, Research and Analytical Skills, Self-motivated, Results-Oriented, Relationship-building abilities, Troubleshooting, Quick Working, Agile/Scrum
 
 ## Jarvis Projects
 Project source code: [jarvis_data_eng_olivia](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng_Olivia/tree/main/cloud_devops)
