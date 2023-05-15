@@ -15,20 +15,20 @@
 **Familiar:** Java
 
 ## Jarvis Projects
-Project source code: [jarvis_data_eng_olivia](https://github.com/xlivia/jarvis_data_eng_olivia)
-**Cluster Monitor** [[GitHub Cluster Monitor](https://github.com/xlivia/jarvis_data_eng_olivia)]: Description
-**Core Java Apps** [[GitHub Core Java](https://github.com/xlivia/jarvis_data_eng_olivia/tree/main/core_java)]:
+Project source code: [jarvis_data_eng_olivia](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng_Olivia/tree/main/cloud_devops)
+**Cluster Monitor** [[GitHub Cluster Monitor](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng_Olivia/tree/main/linux_sql)]: Description
+**Core Java Apps** [[GitHub Core Java](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng_Olivia/tree/main/core_java)]:
   - Twitter App: Description
   - JDBC App: Description
   - Grep App: Description
 
-**Springboot App** [[GitHub Springboot](https://github.com/xlivia/jarvis_data_eng_olivia/tree/main/springboot)]: Not Started
-**Hadoop** [[GitHub Hadoop](https://github.com/xlivia/jarvis_data_eng_olivia/tree/main/hadoop)]: Not Started
-**Spark** [[GitHub Spark](https://github.com/xlivia/jarvis_data_eng_olivia/tree/main/spark)]: Not Started
-**Cloud/DevOps** [[GitHub Cloud/Devops](https://github.com/xlivia/jarvis_data_eng_olivia/tree/main/cloud_devops)]: Not Started
+**Springboot App** [[GitHub Springboot](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng_Olivia/tree/main/springboot)]: Not Started
+**Hadoop** [[GitHub Hadoop](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng_Olivia/tree/main/hadoop)]: Not Started
+**Spark** [[GitHub Spark](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng_Olivia/tree/main/spark)]: Not Started
+**Cloud/DevOps** [[GitHub Cloud/Devops](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng_Olivia/tree/main/cloud_devops)]: Not Started
 
 ## Highlighted Projects
-**Web app for resturant** [[GitHub](https://github.com/xlivia/jarvis_data_eng_olivia)]: Description
+**Web app for resturant** [GitHub](): Description
 **Machine Learning**: Description
 
 ## Professional Experiences
