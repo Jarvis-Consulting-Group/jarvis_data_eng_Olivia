@@ -18,9 +18,13 @@ Feel free to explore my projects and get in touch with me for collaboration or a
 
 ## Skills
 **Programming languages:** Python, JavaScript, HTML, CSS, SQL, VBA, Java, C, jQuery, Angular, Node.js, Express.js, Java, Linux/Bash, Git
+
 **Frameworks & Libraries:** NumPy, Pandas, Matplotlib, Flask, Express.js, Socket.io, jQuery, Bootstrap, Leaflet.js
+
 **Database Technologies:** MySQL, Postgres, MongoDB, SQL, NoSQL, Python, Pandas, SQL, Oracle, Database Design & Querying, Data Analysis & Interpretation, Docker, RDBMS/SQL
+
 **Web Technologies:** AJAX, API Development, Geomapping, Cross Origin Resource Sharing (CORS), Flask, Ember.js
+
 **Skills & Techniques:** Collaboration, Communication, MS Office, Attention to Detail, Organization, Independent Problem Solving, Decision Making, Research and Analytical Skills, Self-motivated, Results-Oriented, Relationship-building abilities, Troubleshooting, Quick Working, Agile/Scrum
 
 ## Jarvis Projects
