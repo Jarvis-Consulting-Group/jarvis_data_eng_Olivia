@@ -5,11 +5,7 @@
 <h2 align="center">👩‍💻🌟💻 Jarvis Developer Training 👨‍💻🌟💻</h2>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm Olivia Bryant, a software developer with a Bachelor of Computing in Computer Science. 🌟💻
-</p>
-
-<p align="center">
-  From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧
+  I'm Olivia Bryant, as a software developer with a Bachelor of Computing in Computer Science. 🌟💻
 </p>
 
 <p align="center">
