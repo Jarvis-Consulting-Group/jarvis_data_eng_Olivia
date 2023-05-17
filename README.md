@@ -34,34 +34,28 @@
 
 ### 1. Linux Cluster Monitoring Agent (Linux and SQL) ✅
 [🖥️📊](./linux_sql)
-
-    - I developed a Linux Cluster Monitoring Agent with RDBMS and SQL, showcasing my skills in system monitoring, database management, and SQL optimization. This application efficiently collects real-time metrics from a Linux cluster, stores them in an RDBMS, and allows for insightful analysis and reporting. I honed my expertise in Linux system administration, data modeling, and query optimization. This project emphasizes scalability, fault tolerance, and security, providing a valuable tool for managing and optimizing large-scale cluster environments.
+- I developed a Linux Cluster Monitoring Agent with RDBMS and SQL, showcasing my skills in system monitoring, database management, and SQL optimization. This application efficiently collects real-time metrics from a Linux cluster, stores them in an RDBMS, and allows for insightful analysis and reporting. I honed my expertise in Linux system administration, data modeling, and query optimization. This project emphasizes scalability, fault tolerance, and security, providing a valuable tool for managing and optimizing large-scale cluster environments.
 
 ### 2. Core Java Apps ✅
 [☕📱](./core_java)
-
 - **Twitter App**: I created a Core Java Twitter application that highlights my skills in API integration, real-time data handling, and user interface design. This app seamlessly interacts with the Twitter API, allowing users to search tweets, display real-time streams, post tweets, and interact with user profiles. I focused on creating a user-friendly interface and enhancing user experience with real-time updates and customizable display options.
 - **JDBC App**: I developed a Core Java JDBC app that demonstrates my skills in working with databases. This application allows users to interact with a database by performing CRUD operations and retrieving specific data efficiently. Through this project, I enhanced my knowledge of SQL queries, database schema design, and data modeling.
 - **Grep App**: I built a Core Java Grep application that showcases my expertise in file handling, text parsing, and pattern matching. This app efficiently searches for specific patterns within files and provides users with valuable insights. It utilizes Java's file I/O capabilities, employs multi-threading techniques for faster execution, and enables users to customize search options.
 
 ### 3. Springboot Trading REST API 🚧
 [🌱💼](./springboot)
-
 - Not Started
 
 ### 4. Hadoop/Hive 🚧
 [🐘🐝](./hadoop)
-
 - Not Started
 
 ### 5. Spark/Scala 🚧
 [⚡🚀](./spark)
-
 - Not Started
 
 ### 6. Cloud/DevOps 🚧
 [☁️🔧](./cloud_devops)
-
 - Not Started
 
 <br>
