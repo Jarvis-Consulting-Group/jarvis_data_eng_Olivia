@@ -11,7 +11,9 @@ Welcome to my GitHub repo! I'm Olivia Bryant, a software developer with a Bachel
 <p align="center">
 From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects.
 In addition to my technical expertise, I have experience in managing businesses and providing exceptional customer service. 🚀🔧
+</p>
 
+<p align="center">
 Let's create something amazing together! 🌟🚀✨
 </p>
 
