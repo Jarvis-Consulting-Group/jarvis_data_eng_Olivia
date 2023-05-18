@@ -1,8 +1,6 @@
 # Olivia Bryant . Jarvis Consulting
 
-I'm Olivia Bryant, as a software developer with a Bachelor of Computing in Computer Science.
-From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects.
-Let's create something amazing together!
+I'm Olivia Bryant, as a software developer with a Bachelor of Computing in Computer Science. From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. Let's create something amazing together!
 
 ## Skills
 
