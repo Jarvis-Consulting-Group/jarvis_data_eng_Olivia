@@ -1,48 +1,49 @@
 {
   "education": [
     {
-      "awards_achievements": [
-        "Scholarship",
-        "Dean's List (2015, 2016): Ut enim ad minim veniam",
-        "GPA: 3.8/4.0"
-      ],
-      "degree": "Bachelor of Applied Sciences",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2012-2016",
-      "school_name": "XYZ university"
-    },
-    {
       "awards_achievements": null,
       "degree": "Bachelor of Computing",
       "department": "Computer Science",
       "duration": "2018-2022",
       "school_name": "University of Guelph"
+    },
+    {
+      "awards_achievements": null,
+      "degree": "Data Analytics Bootcamp",
+      "department": "Continuing Education",
+      "duration": "2023",
+      "school_name": "University of Toronto"
     }
   ],
   "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng_Olivia",
   "highlighted_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
-      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
-      "name": "Web app for resturant"
+      "description": "Developed a robust and scalable full-stack web application utilizing MongoDB, HTML, CSS, JavaScript, and Express.js. Implemented CRUD functionality to seamlessly create, retrieve, update, and delete items from the MongoDB database. Leveraged AJAX and jQuery to optimize data processing, while ensuring a smooth user experience through a user-friendly interface and responsive design created with Bootstrap and CSS.",
+      "git_url": "https://github.com/xlivia/middleware",
+      "name": "Middleware CRUD MongoDB Database Web App"
     },
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "Designed and developed a dynamic real-time chatroom web application using HTML, CSS, JavaScript, and Socket.io. The application offers users a simple yet intuitive interface with a login prompt, facilitating seamless interaction between participants. By integrating Socket.io, the app ensures efficient and instantaneous messaging in real-time, enhancing the overall chat experience.",
       "git_url": null,
-      "name": "Machine Learning"
+      "name": "Real-Time Chatroom Web App"
+    },
+    {
+      "description": "Created an interactive web application for IP geolocation using a comprehensive tech stack including HTML, CSS, JavaScript, Bootstrap, OpenStreetMap, Leaflet, and the ipFind API. Demonstrated expertise in front-end web development by integrating various APIs and effectively visualizing geolocation data. The web app offers an intuitive user interface combined with interactive maps, providing accurate and engaging geolocation information.",
+      "git_url": "https://github.com/xlivia/ipGeolocation",
+      "name": "IP Geolocation Web App"
     }
   ],
   "jarvis_projects": [
     {
-      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "description": "I developed a Linux Cluster Monitoring Agent with RDBMS and SQL, showcasing my skills in system monitoring, database management, and SQL optimization. This application efficiently collects real-time metrics from a Linux cluster, stores them in an RDBMS, and allows for insightful analysis and reporting. I honed my expertise in Linux system administration, data modeling, and query optimization. This project emphasizes scalability, fault tolerance, and security, providing a valuable tool for managing and optimizing large-scale cluster environments.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
     },
     {
       "description": [
-        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
-        "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+        "Twitter App: I created a Core Java Twitter application that highlights my skills in API integration, real-time data handling, and user interface design. This app seamlessly interacts with the Twitter API, allowing users to search tweets, display real-time streams, post tweets, and interact with user profiles. I focused on creating a user-friendly interface and enhancing user experience with real-time updates and customizable display options.",
+        "JDBC App: I developed a Core Java JDBC app that demonstrates my skills in working with databases. This application allows users to interact with a database by performing CRUD operations and retrieving specific data efficiently. Through this project, I enhanced my knowledge of SQL queries, database schema design, and data modeling.",
+        "Grep App: I built a Core Java Grep application that showcases my expertise in file handling, text parsing, and pattern matching. This app efficiently searches for specific patterns within files and provides users with valuable insights. It utilizes Java's file I/O capabilities, employs multi-threading techniques for faster execution, and enables users to customize search options."
       ],
       "git_url": "/core_java",
       "name": "Core Java Apps"
@@ -77,21 +78,16 @@
   "others": [
     {
       "bullets": [
-        "Udacity Machine Learning (2019)"
+        "Swimming Instructor"
       ],
       "title": "Certificates"
     },
     {
       "bullets": [
-        "Winner"
-      ],
-      "title": "Awards"
-    },
-    {
-      "bullets": [
-        "Basketball player",
-        "Competitive gaming",
-        "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+        "Competitive Swimming, 2014-2017",
+        "Volunteer, Mayor's Youth Action Team, King Township, 2015",
+        "I enjoy reading mystery, fantasy, romance, and thriller books",
+        "I enjoy swimming and playing soccer"
       ],
       "title": "Activities/Hobbies"
     }
@@ -99,31 +95,37 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
+      "description": "As a Software Developer at Jarvis, I am actively involved in diverse projects aimed at refining my skills and becoming a proficient software developer. Focusing on web development, database management, and IT support, I am delivering high-quality solutions that meet client requirements. Working at Jarvis Consulting has provided me with invaluable hands-on experience and the opportunity to contribute to real-world projects, fostering my growth as a software professional.",
       "duration": "2020-present",
       "title": "Software Developer"
     },
     {
-      "company": "XYZ Company",
-      "description": "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis.",
-      "duration": "2019",
-      "title": "Tutor"
+      "company": "AstraZeneca Canada",
+      "description": "During my time as an IT Specialist Intern at AstraZeneca Canada, I gained practical expertise in managing the design, development, and content of the company's IT Intranet. By creating engaging online graphic designs, I enhanced the visual appeal and user experience of the intranet. I played a crucial role in improving self-serve support by transferring over 100 translated articles using ServiceNow, facilitating accessible information for users. Employing Excel for data analysis, I presented employee mobile data in an easily understandable format, contributing to cost savings. Actively participating in project planning and execution, I collaborated with team members to successfully accomplish various IT initiatives.",
+      "duration": "2020",
+      "title": "IT Specialist Intern"
+    },
+    {
+      "company": "Swimming 2.0",
+      "description": "As the Founder of Swimming 2.0, I established and operated a thriving swimming lessons business over four summers. With up to 100 students each year, I provided personalized swimming instruction tailored to individuals' skill levels. Beyond teaching, I successfully managed all aspects of the business, including marketing, scheduling, and customer service. By hiring and supervising employees, I optimized operations and ensured efficient business growth. Developing comprehensive lesson plans, I created a safe and supportive learning environment for children with varying skill levels. Leveraging technology tools such as scheduling software and online payment systems, I streamlined operations and enhanced the overall customer experience, cementing Swimming 2.0 as a reputable and customer-focused brand.",
+      "duration": "2018-2022",
+      "title": "Founder and Swimming Instructor"
     }
   ],
   "skills": {
     "competent": [
-      "Donec",
-      "fermentum",
-      "Donec",
-      "fermentum",
-      "Donec"
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C"
     ],
     "familiar": [
-      "Donec",
-      "fermentum",
-      "fermentum",
-      "fermentum",
-      "fermentum"
+      "Node",
+      "Express",
+      "MongoDB",
+      "Docker",
+      "Postgres"
     ],
     "proficient": [
       "Java",
@@ -133,5 +135,5 @@
       "Git"
     ]
   },
-  "summary": "I'm Olivia Bryant, as a software developer with a Bachelor of Computing in Computer Science."
+  "summary": "I'm Olivia Bryant, as a software developer with a Bachelor of Computing in Computer Science. From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. Let's create something amazing together!"
 }
