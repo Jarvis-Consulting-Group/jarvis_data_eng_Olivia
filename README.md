@@ -4,19 +4,15 @@ I'm Olivia Bryant, as a software developer with a Bachelor of Computing in Compu
 
 ## Skills
 
-**Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
-**Competent:**
-**Familiar:**
-
 **Programming languages:** Python, JavaScript, HTML, CSS, SQL, VBA, Java, C, jQuery, Angular, Node.js, Express.js, Linux/Bash, Git
 
 **Frameworks & Libraries:** NumPy, Pandas, Matplotlib, Flask, Express.js, Socket.io, jQuery, Bootstrap, Leaflet.js
 
-**Database Technologies:** MySQL, PostgreSQL, MongoDB, SQL, NoSQL, Python, Pandas, SQL, Oracle, Database Design & Querying, Data Analysis & Interpretation
+**Database Technologies:** MySQL, PostgreSQL, MongoDB, RDBMS/SQL, NoSQL, Python, Pandas, SQL, Oracle, Database Design & Querying, Data Analysis & Interpretation
 
 **Web Technologies:** AJAX, API Development, Geomapping, Cross Origin Resource Sharing (CORS), Flask, Ember.js
 
-**Skills & Techniques:** Collaboration, Communication, MS Office, Attention to Detail, Organization, Independent Problem Solving, Decision Making, Research and Analytical Skills, Self-motivated, Results-Oriented, Relationship-building abilities, Troubleshooting, Quick Working
+**Skills & Techniques:** Collaboration, Communication, MS Office, Attention to Detail, Organization, Independent Problem Solving, Decision Making, Research and Analytical Skills, Self-motivated, Results-Oriented, Relationship-building abilities, Troubleshooting, Quick Working, Agile/Scrum
 
 ## Jarvis Projects
 
