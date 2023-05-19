@@ -5,32 +5,50 @@ github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: I'm Olivia Bryant, as a software developer with a Bachelor of Computing in Computer Science. From building full-stack web apps to developing real-time chatroom applications, I have a proven track record of successful projects. Let's create something amazing together!
+summary: As a recent graduate with a Bachelor of Computing in Computer Science, I am a passionate software developer specializing in building full-stack web apps and developing real-time chatroom applications. With a proven track record of successful projects, I have gained valuable experience through my involvement in various frameworks, school projects, personal endeavors, and professional placements. From utilizing technologies like Python, JavaScript, and Java to leveraging frameworks like Flask, Express.js, and Angular, I have consistently delivered high-quality solutions. Let's collaborate and bring our ideas to life, creating something amazing together!
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
-    - Java
-    - Linux/Bash
-    - RDBMS/SQL
-    - Agile/Scrum
-    - Git
-  # At least 5 skills
-  competent:
     - HTML
     - CSS
     - JavaScript
     - Python
     - C
+    - Bootstrap
+    - SQL
+    - VBA
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Microsoft Office
+    - Troubleshooting
+  # At least 5 skills
+  competent:
+    - Java
+    - Node.js
+    - Express.js
+    - Ember.js
+    - Cross-Origin Resource Sharing (CORS)
+    - Git
+    - NumPy
+    - Pandas
+    - Matplotlib
+    - MongoDB
+    - Geomapping
+    - Collaboration
+    - Communication
   # At least 5 skills
   familiar:
-    - Node
-    - Express
-    - MongoDB
     - Docker
-    - Postgres
+    - jQuery
+    - Angular
+    - Flask
+    - Socket.io
+    - Leaflet.js
+    - AJAX
 
 # List of Jarvis projects
 jarvis_projects:
@@ -42,24 +60,24 @@ jarvis_projects:
   - name: "Core Java Apps"
     git_url: "/core_java"
     description:
-      - "Twitter App: I created a Core Java Twitter application that highlights my skills in API integration, real-time data handling, and user interface design. This app seamlessly interacts with the Twitter API, allowing users to search tweets, display real-time streams, post tweets, and interact with user profiles. I focused on creating a user-friendly interface and enhancing user experience with real-time updates and customizable display options."
-      - "JDBC App: I developed a Core Java JDBC app that demonstrates my skills in working with databases. This application allows users to interact with a database by performing CRUD operations and retrieving specific data efficiently. Through this project, I enhanced my knowledge of SQL queries, database schema design, and data modeling."
-      - "Grep App: I built a Core Java Grep application that showcases my expertise in file handling, text parsing, and pattern matching. This app efficiently searches for specific patterns within files and provides users with valuable insights. It utilizes Java's file I/O capabilities, employs multi-threading techniques for faster execution, and enables users to customize search options."
-  - name: "Springboot App"
-    git_url: "/springboot"
-    description: ""
-  - name: "Python Data Analytics"
-    git_url: "/python_data_anlytics"
-    description: ""
-  - name: "Hadoop"
-    git_url: "/hadoop"
-    description: ""
-  - name: "Spark"
-    git_url: "/spark"
-    description: ""
-  - name: "Cloud/DevOps"
-    git_url: "/cloud_devops"
-    description: ""
+      - "Twitter App: I developed a powerful Twitter application that showcases my skills in API integration, real-time data handling, and user interface design. This app seamlessly interacts with the Twitter API, enabling users to search tweets, display real-time streams, post tweets, and interact with user profiles. By leveraging the power of Spring framework, I enhanced the app's scalability, modularity, and maintainability. With a strong focus on user experience, I created a user-friendly interface with real-time updates and customizable display options."
+      - "JDBC App: I built a Java JDBC application that allows seamless interaction with databases. This application enables users to perform CRUD operations and efficiently retrieve specific data. Throughout the project, I deepened my knowledge of SQL queries, database schema design, and data modeling. I paid special attention to the app's structure, ensuring clean code and optimal performance for handling large datasets."
+      - "Grep App: By reimplementing the traditional grep functionality using Java, I created an application. This app highlights my skills in file handling, text parsing, and pattern matching. It efficiently searches for specific patterns within files and provides users with valuable insights. Leveraging Java's file I/O capabilities and multi-threading techniques, the app offers fast execution and allows users to customize search options according to their needs."
+#  - name: "Springboot App"
+#    git_url: "/springboot"
+#    description: ""
+#  - name: "Python Data Analytics"
+#    git_url: "/python_data_anlytics"
+#    description: ""
+#  - name: "Hadoop"
+#    git_url: "/hadoop"
+#    description: ""
+#  - name: "Spark"
+#    git_url: "/spark"
+#    description: ""
+#  - name: "Cloud/DevOps"
+#    git_url: "/cloud_devops"
+#    description: ""
 
 # List of personal or academic projects
 # Feel free to add more projects
