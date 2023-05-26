@@ -1,4 +1,4 @@
-package ca.jrvs.apps.practice;
+package ca.jrvs.apps.grep;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -7,7 +7,9 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class GrepApp {
+
     public static void main(String[] args) {
+
         if (args.length < 2) {
             System.out.println("Usage: java GrepApp <pattern> <file>");
             System.exit(1);
@@ -29,5 +31,7 @@ public class GrepApp {
         } catch (IOException e) {
             System.out.println("Error reading file: " + e.getMessage());
         }
+
     }
+
 }
